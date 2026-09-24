@@ -171,7 +171,7 @@ GEM
     jbuilder (2.15.1)
       actionview (>= 7.0.0)
       activesupport (>= 7.0.0)
-    json (3.0.2)
+    json (2.21.2)
     jsonpath (1.1.5)
       multi_json
     kaminari (1.2.2)
@@ -386,6 +386,7 @@ DEPENDENCIES
   devise-guests (~> 0.5)
   honeybadger
   importmap-rails
+  json (~> 2.0)
   puma (>= 5.0)
   rails (~> 8.1.0)
   rsolr (~> 2.0)
@@ -399,4 +400,4 @@ DEPENDENCIES
   whenever
 
 BUNDLED WITH
-  4.0.12
+  4.0.21

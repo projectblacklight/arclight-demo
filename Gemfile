@@ -63,3 +63,4 @@ gem 'honeybadger'
 gem "blacklight-locale_picker"
 
 gem "cssbundling-rails", "~> 1.1"
+gem 'json', '~> 2.0'
