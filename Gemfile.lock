@@ -143,7 +143,7 @@ GEM
       railties (>= 6.1)
     hashie (5.1.0)
       logger
-    honeybadger (6.9.2)
+    honeybadger (6.9.3)
       logger
       ostruct
     http-2 (1.2.1)
