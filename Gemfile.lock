@@ -143,7 +143,7 @@ GEM
       railties (>= 6.1)
     hashie (5.1.0)
       logger
-    honeybadger (6.10.1)
+    honeybadger (6.10.2)
       logger
       ostruct
     http-2 (1.2.1)
@@ -236,7 +236,7 @@ GEM
     prettyprint (0.2.1)
     prism (2.1.0)
     prism (2.1.0-arm64-darwin)
-    puma (8.0.2)
+    puma (8.1.0)
       nio4r (~> 2.0)
     racc (1.8.1)
     rack (3.2.8)
